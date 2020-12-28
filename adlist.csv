@@ -7,7 +7,7 @@ id,address,enabled,date_added,date_modified,comment,date_updated
 6,https://adaway.org/hosts.txt,1,1609016914,1609016914,Default,1609016914
 7,https://v.firebog.net/hosts/AdguardDNS.txt,1,1609016914,1609016914,Default,1609016914
 8,https://v.firebog.net/hosts/Admiral.txt,1,1609016914,1609016914,Default,1609016914
-9,http,s://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1609016914,1609016914,Default,1609016914
+9,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1609016914,1609016914,Default,1609016914
 10,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1609016914,1609016914,Default,1609016914
 11,https://v.firebog.net/hosts/Easylist.txt,1,1609016914,1609016914,Default,1609016914
 12,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1609016914,1609016914,Default,1609016914
